@@ -1,0 +1,12 @@
+name: ArmelloStats
+title: ArmelloStats
+username:
+account: daikoro
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2228858
+bundleId: 3161359
+url: https://daikoro.shinyapps.io/ArmelloStats/
+when: 1589798035.13698
+asMultiple: FALSE
+asStatic: FALSE
